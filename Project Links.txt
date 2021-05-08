@@ -1,0 +1,31 @@
+Below are the links to my javascript mini projects:
+
+1. https://battery-animation.netlify.app
+
+2. https://responsive-web-template.netlify.app
+
+3. https://tap-sounds.netlify.app
+
+4. https://happy-sad-switch.netlify.app
+
+5. https://sort-richest-people.netlify.app
+
+6. https://rock-paper-scissors-js-game.netlify.app
+
+7. https://relax-and-meditate.netlify.app
+
+8. https://music-player-js-app.netlify.app
+
+9. https://memory-card-game-js-app.netlify.app
+
+10. https://meal-finder-js-app.netlify.app
+
+11. https://lyrics-search-js.netlify.app
+
+12. https://drum-kit-js-app.netlify.app
+
+13. https://digital-clock-js-app.netlify.app
+
+14. https://money-tracker-js-app.netlify.app
+
+15. https://dictionary-js-app.netlify.app
