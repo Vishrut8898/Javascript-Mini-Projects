@@ -2,7 +2,7 @@ Below are the links to my javascript mini projects:
 
 1. https://battery-animation.netlify.app
 
-2. https://responsive-web-template.netlify.app
+2. https://portfolio-template-html-css.netlify.app
 
 3. https://tap-sounds.netlify.app
 
@@ -30,4 +30,4 @@ Below are the links to my javascript mini projects:
 
 15. https://dictionary-js-app.netlify.app
 
-16. https://portfolio-template-html-css.netlify.app
+16. https://responsive-web-template.netlify.app
